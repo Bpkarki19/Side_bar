@@ -17,7 +17,9 @@ body {
     flex-direction: column;
     padding: 18px 24px;
     box-sizing: border-box;
+    overflow-y: auto;
     box-shadow: 16px 0 52px rgba(14, 24, 80, 0.2), -2px 0 4px rgba(69, 79, 126, 0.02);
+    
 }
 
 
